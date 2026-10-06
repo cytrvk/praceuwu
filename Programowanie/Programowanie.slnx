@@ -4,8 +4,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/C#/">
+  <Folder Name="/C#/" />
+  <Folder Name="/C#/01. Console/">
     <Project Path="FirstConsoleApp/FirstConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/C#/02. Value types/">
+    <Project Path="ValueTypesConsoleApp/ValueTypesConsoleApp.csproj" Id="e15d7761-c613-465f-85e9-6ecbc1119e10" />
   </Folder>
   <Folder Name="/C++/" />
   <Folder Name="/C++/Strukturalne/" />

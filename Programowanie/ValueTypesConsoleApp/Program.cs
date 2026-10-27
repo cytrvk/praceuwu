@@ -36,7 +36,7 @@ void parametrTest_v3(out int p)
 int firstNumber = 15;
 Console.WriteLine($"firstNumber przed {firstNumber}");
 parametrTest_v1(firstNumber);
-//parametrTest_v1(87);  //POPRAWNE
+//parametrTest_v1(87);  //POPRAWNE                                                                                  
 Console.WriteLine($"firstNumber po {firstNumber}");
 
 firstNumber = 15;

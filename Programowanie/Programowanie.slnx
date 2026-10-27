@@ -11,6 +11,15 @@
   <Folder Name="/C#/02. Value types/">
     <Project Path="ValueTypesConsoleApp/ValueTypesConsoleApp.csproj" Id="e15d7761-c613-465f-85e9-6ecbc1119e10" />
   </Folder>
+  <Folder Name="/C#/03. Reference Types/">
+    <Project Path="ReferenceTypesConsoleApp/ReferenceTypesConsoleApp.csproj" Id="5885ed24-c390-4f2e-a481-c538fa2ac17b" />
+  </Folder>
+  <Folder Name="/C#/04. Object/">
+    <Project Path="﻿ObjectConsoleApp/﻿ObjectConsoleApp.csproj" Id="479bfadf-e859-41b8-b3af-c13f7860fd3a" />
+  </Folder>
+  <Folder Name="/C#/05. Zadanie/">
+    <Project Path="DrukarkaConsoleApp/DrukarkaConsoleApp.csproj" Id="7b86bb51-0f86-4dd4-8c87-af96352a9f12" />
+  </Folder>
   <Folder Name="/C++/" />
   <Folder Name="/C++/Strukturalne/" />
   <Folder Name="/C++/Strukturalne/01. Basics/">
